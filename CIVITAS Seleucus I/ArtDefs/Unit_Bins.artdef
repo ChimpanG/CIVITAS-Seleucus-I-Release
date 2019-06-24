@@ -3,8 +3,8 @@
 	<m_Version>
 		<major>4</major>
 		<minor>0</minor>
-		<build>315</build>
-		<revision>805</revision>
+		<build>415</build>
+		<revision>990</revision>
 	</m_Version>
 	<m_TemplateName text="Units"/>
 	<m_RootCollections>
@@ -84,10 +84,10 @@
 													<m_Fields>
 														<m_Values>
 															<Element class="AssetObjects..BLPEntryValue">
-																<m_EntryName text=""/>
-																<m_XLPClass text=""/>
+																<m_EntryName text="ElephantarchiaDriver_ArmorA"/>
+																<m_XLPClass text="Unit"/>
 																<m_XLPPath text="Units.xlp"/>
-																<m_BLPPackage text=""/>
+																<m_BLPPackage text="units/units"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -105,10 +105,10 @@
 													<m_Fields>
 														<m_Values>
 															<Element class="AssetObjects..BLPEntryValue">
-																<m_EntryName text=""/>
-																<m_XLPClass text=""/>
+																<m_EntryName text="ElephantarchiaRider_ArmorA"/>
+																<m_XLPClass text="Unit"/>
 																<m_XLPPath text="Units.xlp"/>
-																<m_BLPPackage text=""/>
+																<m_BLPPackage text="units/units"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -126,10 +126,10 @@
 													<m_Fields>
 														<m_Values>
 															<Element class="AssetObjects..BLPEntryValue">
-																<m_EntryName text=""/>
-																<m_XLPClass text=""/>
+																<m_EntryName text="ElephantarchiaRider_ArmorB"/>
+																<m_XLPClass text="Unit"/>
 																<m_XLPPath text="Units.xlp"/>
-																<m_BLPPackage text=""/>
+																<m_BLPPackage text="units/units"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -195,10 +195,10 @@
 													<m_Fields>
 														<m_Values>
 															<Element class="AssetObjects..BLPEntryValue">
-																<m_EntryName text=""/>
-																<m_XLPClass text=""/>
+																<m_EntryName text="KataphraktoiElephantA"/>
+																<m_XLPClass text="Unit"/>
 																<m_XLPPath text="Units.xlp"/>
-																<m_BLPPackage text=""/>
+																<m_BLPPackage text="units/units"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
@@ -264,10 +264,10 @@
 													<m_Fields>
 														<m_Values>
 															<Element class="AssetObjects..BLPEntryValue">
-																<m_EntryName text=""/>
-																<m_XLPClass text=""/>
+																<m_EntryName text="Kataphraktoi_HelmA"/>
+																<m_XLPClass text="Unit"/>
 																<m_XLPPath text="Units.xlp"/>
-																<m_BLPPackage text=""/>
+																<m_BLPPackage text="units/units"/>
 																<m_LibraryName text="Unit"/>
 																<m_ParamName text="Asset"/>
 															</Element>
